@@ -1,0 +1,56 @@
+{
+  "generated_on": "2026-11-05",
+  "visibility": "public",
+  "purpose": "Fuentes para consulta técnica de políticas Microsoft Intune",
+  "no_automatic_production_deployment": true,
+  "sources": [
+    {
+      "name": "microsoft/shell-intune-samples",
+      "url": "https://github.com/microsoft/shell-intune-samples",
+      "commit": "a4f5eeaefe395fb36c70ea41823dabac94fa4db2",
+      "license": "MIT",
+      "mode": "selected-files",
+      "destination": "Referencias/Codigo/microsoft/shell-intune-samples",
+      "note": "Actualización de scripts Company Portal (.zsh y PSSO); versión .sh histórica permanece preexistente"
+    },
+    {
+      "name": "n-engelhardt/bitlocker-scripts",
+      "url": "https://github.com/n-engelhardt/bitlocker-scripts",
+      "commit": "380f8d642cd5d8a64728edde60c1295ee14dd950",
+      "license": "AGPL-3.0",
+      "mode": "all-tracked-files",
+      "destination": "Referencias/Codigo/n-engelhardt/bitlocker-scripts"
+    },
+    {
+      "name": "wompRS/Proactive-Remediation-Scripts",
+      "url": "https://github.com/wompRS/Proactive-Remediation-Scripts",
+      "commit": "6e56d1efa461d88e1ad34e9dd479f9299837b835",
+      "license": "MIT",
+      "mode": "all-tracked-files",
+      "count": 80,
+      "destination": "Referencias/Codigo/wompRS/Proactive-Remediation-Scripts"
+    },
+    {
+      "name": "MrWyss-MSFT/Intune-Remediation-Scripts",
+      "url": "https://github.com/MrWyss-MSFT/Intune-Remediation-Scripts",
+      "commit": "56df8730bd680a2a4b1fd8e79e8275bc110a814b",
+      "license": "no-explicit-license-found",
+      "mode": "external-links-only"
+    },
+    {
+      "name": "Microsoft repositories query",
+      "url": "https://github.com/orgs/microsoft/repositories?q=intune",
+      "mode": "external-index-only"
+    },
+    {
+      "name": "Prajwal Desai Forums",
+      "url": "https://forums.prajwaldesai.com/",
+      "mode": "external-link-only"
+    },
+    {
+      "name": "IntuneStuff macOS guide",
+      "url": "https://intunestuff.com/2024/10/31/macos-intune-policies-guide-to-start/",
+      "mode": "external-link-only"
+    }
+  ]
+}

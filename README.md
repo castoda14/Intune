@@ -1,3 +1,19 @@
+# Biblioteca de Intune: scripts y referencias
+
+> **Repositorio personal de referencia.** Este repositorio de `castoda14` no es un proyecto oficial mantenido por Microsoft. Parte del contenido preexistente procede de ejemplos públicos de Microsoft. Los scripts de terceros permanecen sujetos a sus licencias originales.
+
+- **[Índice principal de referencias](REFERENCIAS-INTUNE.md)**
+- **[Fuentes, licencias y enlaces](Referencias/FUENTES.md)**
+- **[Búsqueda por tema](Referencias/INDICE-TEMATICO.md)**
+- **[Método para evaluar nuevas políticas](Referencias/GUIA-CONSULTA-DIRECTIVAS.md)**
+- **[Manifiesto estructurado de fuentes](Referencias/fuentes.json)**
+
+Los ejemplos no están aprobados para producción. Verificar requisitos actuales y probar antes de desplegar.
+
+---
+
+## Documentación histórica preexistente
+
         ____      __                      _____ __         ____   _____           _       __      
        /  _/___  / /___  ______  ___     / ___// /_  ___  / / /  / ___/__________(_)___  / /______
        / // __ \/ __/ / / / __ \/ _ \    \__ \/ __ \/ _ \/ / /   \__ \/ ___/ ___/ / __ \/ __/ ___/
